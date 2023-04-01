@@ -23,4 +23,17 @@ body {
     margin-left: 113px;
 }
 
-.carousel-inner
+.slider-frame ul {
+    display: flex;
+    padding: 0;
+    width: 400%;
+}
+
+.slider-frame li {
+    list-style: none;
+    width: 100%;
+}
+
+.slider-frame img {
+    width: 100%;
+}
