@@ -37,3 +37,9 @@ body {
 .slider-frame img {
     width: 100%;
 }
+
+.Final {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
